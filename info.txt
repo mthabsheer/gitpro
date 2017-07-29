@@ -4,3 +4,4 @@ to be removed.
 changed.
 changes in issue2 branch
 changes in issue3 branch.
+change to test amend
